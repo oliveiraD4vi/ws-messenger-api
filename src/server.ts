@@ -1,1 +1,3 @@
-console.log("HELLO WORLD!");
+import Sender from "./sender";
+
+const sender = new Sender();
